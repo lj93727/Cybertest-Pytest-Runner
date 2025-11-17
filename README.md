@@ -9,4 +9,4 @@ Results can be exported as TXT or HTML, and a Test Summary panel shows pass/skip
 
 The design features a glowing neon cyberpunk theme with a retro-90s terminal vibe, complete with a blinking cursor animation and a fake CPU/RAM HUD for style.
 
-Source .py code attached. Enjoy!
+Source .py code attached. Coded with Python version 3.10.11 Enjoy!
